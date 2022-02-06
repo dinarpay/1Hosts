@@ -1,4 +1,12 @@
 
+# https://github.com/badmojr/1Hosts/issues/414
+pagespeed.deliveryhero.net
+
+# https://github.com/badmojr/1Hosts/issues/415
+advwebtracking.advantech.com
+adv-web-tracking-logs.azurewebsites.net
+advwebtracking-cloud.advantech.com
+
 # https://github.com/badmojr/1Hosts/issues/404
 mobile-events.eservice.emarsys.net
 
