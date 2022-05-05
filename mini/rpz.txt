@@ -1,9 +1,9 @@
 ; Title: 1Hosts (mini)
 ; Expires: 4 days
-; Last modified: 2022-05-05T17:06:16.455Z
+; Last modified: 2022-05-05T17:31:18.785Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 109,704 rules!
+;  |Count: 109,722 rules!
 ;  |Size: 2.89 MB
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -19,7 +19,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1651770376 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1651771878 43200 3600 259200 300
   NS  localhost.
 
 *.teams.events.data.microsoft.com CNAME .
@@ -15468,6 +15468,8 @@ cn.dap.dmm.co.jp CNAME .
 cyad1.nate.com CNAME .
 *.maxonclick.com CNAME .
 maxonclick.com CNAME .
+*.mvlzxlcmsrqjc.com CNAME .
+mvlzxlcmsrqjc.com CNAME .
 *.tmrjmp.com CNAME .
 tmrjmp.com CNAME .
 *.trusted-web-seal.cybertrust.ne.jp CNAME .
@@ -15562,6 +15564,8 @@ blis.com CNAME .
 cookie.sync.usonar.jp CNAME .
 *.headerbiddr.net CNAME .
 headerbiddr.net CNAME .
+*.loreps.com CNAME .
+loreps.com CNAME .
 *.sgpixel.adsafeprotected.com CNAME .
 sgpixel.adsafeprotected.com CNAME .
 *.extremetracking.com CNAME .
@@ -16254,6 +16258,8 @@ analytics.cdn.live CNAME .
 audience-164723144.us-east-1.elb.amazonaws.com CNAME .
 *.cookielaw.emea.fcagroup.com CNAME .
 cookielaw.emea.fcagroup.com CNAME .
+*.onpsapul.com CNAME .
+onpsapul.com CNAME .
 *.share.9cdn.net CNAME .
 share.9cdn.net CNAME .
 *.statsy.net CNAME .
@@ -24292,6 +24298,8 @@ tgknt.com CNAME .
 tkrecorder.aotter.net CNAME .
 *.ululel.com CNAME .
 ululel.com CNAME .
+*.unripedredwud.com CNAME .
+unripedredwud.com CNAME .
 *.vfghc.com CNAME .
 vfghc.com CNAME .
 *.wmpmvk.whiskeyriff.com CNAME .
@@ -27598,6 +27606,8 @@ toprevenuecpmnetwork.com CNAME .
 tracker.phunuvagiadinh.vn CNAME .
 *.trk.mddionline.com CNAME .
 trk.mddionline.com CNAME .
+*.upskipnudie.com CNAME .
+upskipnudie.com CNAME .
 *.vgfutxwgq.com CNAME .
 vgfutxwgq.com CNAME .
 *.web.x.ilpost.it CNAME .
@@ -27670,6 +27680,8 @@ tenping.kr CNAME .
 tracker.bestshopping.com CNAME .
 *.tracker.cdnbye.com CNAME .
 tracker.cdnbye.com CNAME .
+*.trombegoitcho.com CNAME .
+trombegoitcho.com CNAME .
 *.widget-view.dmm.co.jp CNAME .
 widget-view.dmm.co.jp CNAME .
 *.wifelovers.com CNAME .
@@ -50860,6 +50872,8 @@ face-push.com CNAME .
 facialsword.com CNAME .
 *.facilitategrandfather.com CNAME .
 facilitategrandfather.com CNAME .
+*.facilitystrode.com CNAME .
+facilitystrode.com CNAME .
 *.factermer.com CNAME .
 factermer.com CNAME .
 *.factha.com CNAME .
@@ -74792,6 +74806,8 @@ plausible.staging.sketch.com CNAME .
 plausible.test.sketch.com CNAME .
 *.sketchinferiorunits.com CNAME .
 sketchinferiorunits.com CNAME .
+*.sketeprofs.com CNAME .
+sketeprofs.com CNAME .
 *.skewlyundazed.com CNAME .
 skewlyundazed.com CNAME .
 *.stats.ski.com CNAME .
@@ -79228,6 +79244,8 @@ traitwarnfavorite.com CNAME .
 trakzor.com CNAME .
 *.traneranium.com CNAME .
 traneranium.com CNAME .
+*.trangamcoached.com CNAME .
+trangamcoached.com CNAME .
 *.addtop.trangvangvietnam.com CNAME .
 addtop.trangvangvietnam.com CNAME .
 *.track.trannytrouble.com CNAME .

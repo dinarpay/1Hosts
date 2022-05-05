@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-05T17:06:17.292Z
+# Last modified: 2022-05-05T17:31:19.532Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 54,852 rules!
+#  |Count: 54,861 rules!
 #  |Size: 1.08 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -7741,6 +7741,7 @@
 *.cn.dap.dmm.co.jp
 *.cyad1.nate.com
 *.maxonclick.com
+*.mvlzxlcmsrqjc.com
 *.tmrjmp.com
 *.trusted-web-seal.cybertrust.ne.jp
 *.playinfo.gomlab.com
@@ -7788,6 +7789,7 @@
 *.blis.com
 *.cookie.sync.usonar.jp
 *.headerbiddr.net
+*.loreps.com
 *.sgpixel.adsafeprotected.com
 *.extremetracking.com
 *.mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
@@ -8134,6 +8136,7 @@
 *.analytics.cdn.live
 *.audience-164723144.us-east-1.elb.amazonaws.com
 *.cookielaw.emea.fcagroup.com
+*.onpsapul.com
 *.share.9cdn.net
 *.statsy.net
 *.api.sailthru.com
@@ -12153,6 +12156,7 @@
 *.tgknt.com
 *.tkrecorder.aotter.net
 *.ululel.com
+*.unripedredwud.com
 *.vfghc.com
 *.wmpmvk.whiskeyriff.com
 *.www.burstnet.com
@@ -13806,6 +13810,7 @@
 *.toprevenuecpmnetwork.com
 *.tracker.phunuvagiadinh.vn
 *.trk.mddionline.com
+*.upskipnudie.com
 *.vgfutxwgq.com
 *.web.x.ilpost.it
 *.wee.co.il
@@ -13842,6 +13847,7 @@
 *.tenping.kr
 *.tracker.bestshopping.com
 *.tracker.cdnbye.com
+*.trombegoitcho.com
 *.widget-view.dmm.co.jp
 *.wifelovers.com
 *.wms-fe.amazon-adsystem.com
@@ -25437,6 +25443,7 @@
 *.face-push.com
 *.facialsword.com
 *.facilitategrandfather.com
+*.facilitystrode.com
 *.factermer.com
 *.factha.com
 *.tpl.factporn.com
@@ -37403,6 +37410,7 @@
 *.plausible.staging.sketch.com
 *.plausible.test.sketch.com
 *.sketchinferiorunits.com
+*.sketeprofs.com
 *.skewlyundazed.com
 *.stats.ski.com
 *.skilfulbags.com
@@ -39621,6 +39629,7 @@
 *.traitwarnfavorite.com
 *.trakzor.com
 *.traneranium.com
+*.trangamcoached.com
 *.addtop.trangvangvietnam.com
 *.track.trannytrouble.com
 *.tranquilside.com

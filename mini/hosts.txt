@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-05T17:06:17.090Z
+# Last modified: 2022-05-05T17:31:19.355Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 67,058 rules!
+#  |Count: 67,067 rules!
 #  |Size: 1.73 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -10844,6 +10844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cn.dap.dmm.co.jp
 0.0.0.0 cyad1.nate.com
 0.0.0.0 maxonclick.com
+0.0.0.0 mvlzxlcmsrqjc.com
 0.0.0.0 badge.clevergirlscollective.com
 0.0.0.0 tm.interworksmedia.co.kr
 0.0.0.0 tmrjmp.com
@@ -10904,6 +10905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 headerbiddr.net
 0.0.0.0 id.analytics.glance.inmobi.com
+0.0.0.0 loreps.com
 0.0.0.0 sgpixel.adsafeprotected.com
 0.0.0.0 bbcdn-static.bbelements.com
 0.0.0.0 cdn.ggsfq.com
@@ -11326,6 +11328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.cdn.live
 0.0.0.0 audience-164723144.us-east-1.elb.amazonaws.com
 0.0.0.0 cookielaw.emea.fcagroup.com
+0.0.0.0 onpsapul.com
 0.0.0.0 rdi.da1.vip.prod.criteo.com
 0.0.0.0 share.9cdn.net
 0.0.0.0 vertoz.g2afse.com
@@ -16303,6 +16306,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tgknt.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 ululel.com
+0.0.0.0 unripedredwud.com
 0.0.0.0 vfghc.com
 0.0.0.0 wmpmvk.whiskeyriff.com
 0.0.0.0 www.burstnet.com
@@ -18280,6 +18284,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tpe-dmp.tenmax.io
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 trk.mddionline.com
+0.0.0.0 upskipnudie.com
 0.0.0.0 vgfutxwgq.com
 0.0.0.0 web.x.ilpost.it
 0.0.0.0 wee.co.il
@@ -18321,6 +18326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thumbnail.smartnews-ads.com
 0.0.0.0 tracker.bestshopping.com
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 trombegoitcho.com
 0.0.0.0 widget-view.dmm.co.jp
 0.0.0.0 wifelovers.com
 0.0.0.0 wms-fe.amazon-adsystem.com
@@ -32284,6 +32290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 face-push.com
 0.0.0.0 facialsword.com
 0.0.0.0 facilitategrandfather.com
+0.0.0.0 facilitystrode.com
 0.0.0.0 factermer.com
 0.0.0.0 factha.com
 0.0.0.0 tpl.factporn.com
@@ -46110,6 +46117,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plausible.staging.sketch.com
 0.0.0.0 plausible.test.sketch.com
 0.0.0.0 sketchinferiorunits.com
+0.0.0.0 sketeprofs.com
 0.0.0.0 skewlyundazed.com
 0.0.0.0 stats.ski.com
 0.0.0.0 skilfulbags.com
@@ -48652,6 +48660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trakzor.com
 0.0.0.0 www.trakzor.com
 0.0.0.0 traneranium.com
+0.0.0.0 trangamcoached.com
 0.0.0.0 addtop.trangvangvietnam.com
 0.0.0.0 track.trannytrouble.com
 0.0.0.0 tranquilside.com
