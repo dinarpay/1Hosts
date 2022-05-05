@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-05T13:48:35.626Z
+# Last modified: 2022-05-05T17:06:17.292Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 54,889 rules!
+#  |Count: 54,852 rules!
 #  |Size: 1.08 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -4708,7 +4708,6 @@
 *.ssp-ad.momento.dev
 *.aprtn.com
 *.mousestats.com
-*.55a70c5ade.com
 *.avazunativeads.com
 *.datanoticias.prisasd.com
 *.schibsted.io
@@ -9075,7 +9074,6 @@
 *.mt34iofvjay.com
 *.pm.redbull.com
 *.prf.vagnt.com
-*.stats.pornpics.com
 *.t7z.cupid.ptqy.gitv.tv
 *.tracker.winudf.com
 *.tracking.redbutton.de
@@ -13828,7 +13826,6 @@
 *.hundredpercentmargin.com
 *.id.google.com.qa
 *.kerio-push-gateway-prod.elasticbeanstalk.com
-*.marketing.visitmilwaukee.org
 *.nokaut.link
 *.osupdateservice.yunos.com
 *.proof.sudo.vn
@@ -13900,7 +13897,6 @@
 *.yumenetworks.com
 *.ads-d.viber.com
 *.adyoulike.com
-*.analytics.lumberliquidators.com
 *.analytics.poferries.com
 *.atas.io
 *.attribution.report
@@ -14005,7 +14001,6 @@
 *.aj1937.online
 *.allotupwardmalicious.com
 *.azlyta.immowelt.de
-*.baptist-health.hrm.healthgrades.com
 *.bettermetrics.co
 *.bidverdrd.com
 *.bludwan.com
@@ -14138,7 +14133,6 @@
 *.localsnaughty.com
 *.log.news.zing.vn
 *.log.spotify.com
-*.marketing.contentguru.com
 *.mediaffiliation.com
 *.metrics.astrogaming.com
 *.newsadsppush.com
@@ -14550,7 +14544,6 @@
 *.smetrics.winc.com.au
 *.infos.yellow.com.au
 *.smetrics.yellowpages.com.au
-*.info.bendigotafe.edu.au
 *.belong.curtin.edu.au
 *.smetrics.deakin.edu.au
 *.info.kangan.edu.au
@@ -14814,7 +14807,6 @@
 *.excitedyou.biz
 *.ads.expat-blog.biz
 *.fastbuy.biz
-*.fenfa.biz
 *.ads.garga.biz
 *.gmediarelati.biz
 *.greeandjou.biz
@@ -15897,11 +15889,9 @@
 *.msg.shouji.360.cn
 *.dl.37wan.cn
 *.image.37wan.cn
-*.51dengshan.cn
 *.1.51sxue.cn
 *.3.5646.cn
 *.er.5ykj.cn
-*.70we55s.cn
 *.1.78500.cn
 *.81c.cn
 *.new.915yzt.cn
@@ -16032,7 +16022,6 @@
 *.push.app.autohome.com.cn
 *.c.autohome.com.cn
 *.clickx.autohome.com.cn
-*.n.baminw.com.cn
 *.cctvgb.com.cn
 *.count.chanet.com.cn
 *.file.chanet.com.cn
@@ -16344,7 +16333,6 @@
 *.adreq.togothermany.cn
 *.adsapi.togothermany.cn
 *.topstat.cn
-*.toqrsru.cn
 *.ttayy.cn
 *.engine.tuia.cn
 *.appwall.tv2phone.cn
@@ -16393,7 +16381,6 @@
 *.wowostar.cn
 *.i.wuhaolin.cn
 *.j.credit.wwz114.cn
-*.xerhibx.cn
 *.xhfrt.cn
 *.api.xiaohuxi.cn
 *.xiaoshuoyun.cn
@@ -18176,7 +18163,6 @@
 *.www.admitad.com
 *.www.admixer.com
 *.admized.com
-*.www.admobclick.com
 *.admobile.com
 *.admoxi.com
 *.static.admozartxml.com
@@ -20504,7 +20490,6 @@
 *.beift.com
 *.beifz.com
 *.beigecombinedsniffing.com
-*.d.beigedi.com
 *.ad.beihai365.com
 *.beihw.com
 *.static.beintoo.com
@@ -21740,8 +21725,6 @@
 *.as1.casinocity.com
 *.online.casinodelrio.com
 *.casinogames.com
-*.banner.casinoking.com
-*.banner.casinolasvegas.com
 *.www.casinoonnet.com
 *.casinorewards.com
 *.www.casinoroom.com
@@ -22346,7 +22329,6 @@
 *.clownsong.com
 *.analytics.cltpstatic.com
 *.en.clubcooee.com
-*.banner.clubdicecasino.com
 *.track.clubfactory.com
 *.track.clubheshe.com
 *.clublu.com
@@ -23814,7 +23796,6 @@
 *.disparagethence.com
 *.disparitychevyconceivable.com
 *.disparityendanger.com
-*.dispatchunique.com
 *.dispatchvegasplus.com
 *.dispensablestranger.com
 *.displacepepperyadvertisement.com
@@ -23890,7 +23871,6 @@
 *.dmpcounter.com
 *.gcirm.dmregister.com
 *.track.dmrtb.com
-*.dmstrck.com
 *.dmtracker.com
 *.dmvbdfblevxvx.com
 *.video.dmzjmp.com
@@ -26261,7 +26241,6 @@
 *.www.funnyreign.com
 *.ad.funp.com
 *.funsafetab.com
-*.conf.funshion.com
 *.funstage.com
 *.fun-hits.com
 *.fuojuw.com
@@ -28875,7 +28854,6 @@
 *.cp.jfcdns.com
 *.jfnnrjfjrfjr.com
 *.jg3i17759nd0nhh9q53zpy.com
-*.jgsqfkj.com
 *.8961.jianbihua.com
 *.ads.jianchiapp.com
 *.hh.jiankang.com
@@ -28928,7 +28906,6 @@
 *.jmpdirect01.com
 *.app.jmusports.com
 *.jmvisuals.com
-*.jmypdkzixne.com
 *.jnbvckgophfkop.com
 *.sdc.be.jnj.com
 *.jnrtavp2x66u.com
@@ -32920,7 +32897,6 @@
 *.network-marketing24.com
 *.marketing.netwoven.com
 *.netzip.com
-*.ad.net-activities.com
 *.smetrics.net-a-porter.com
 *.ad.net-c.com
 *.net-filter.com
@@ -36741,7 +36717,6 @@
 *.scareshortnovel.com
 *.scarfthought.com
 *.scarofnght.com
-*.banner.scasino.com
 *.scatteredheat.com
 *.scatteredoutillicit.com
 *.scatteredstream.com
@@ -36850,7 +36825,6 @@
 *.seaboblit.com
 *.ad.seagulltracer.com
 *.fpc.seahawks.com
-*.tracking.seakeeper.com
 *.go.sealthatleak.com
 *.seamankidding.com
 *.seamchristmas.com
@@ -43084,7 +43058,6 @@
 *.stats.infoboard.de
 *.metrics.infranken.de
 *.advertising.ingame.de
-*.trackerstatistik.init-ag.de
 *.dcclaa.instyle.de
 *.intensifier.de
 *.interaktiv-net.de
@@ -44582,7 +44555,6 @@
 *.onlineporno.fun
 *.retdaz.fun
 *.scribevideos.fun
-*.singledog.fun
 *.timefeathered.fun
 *.top88.fun
 *.toptube.fun
@@ -45652,7 +45624,6 @@
 *.trackset.it
 *.adserver.webads.it
 *.images.webads.it
-*.yobee.it
 *.tr.clienti.younited-credit.it
 *.smetrics.global.jcb
 *.petra.nic.gov.jo
@@ -53144,7 +53115,6 @@
 *.emc.dr-stick.shop
 *.pokemoney.shop
 *.whzz.shop
-*.ybxw.shop
 *.stats.chapterist.show
 *.8000plus.si
 *.www.adpartner.si
@@ -53187,7 +53157,6 @@
 *.loggychops.paulsmith.site
 *.playiwin.site
 *.rulkerton.site
-*.runningman.site
 *.rvmessage.site
 *.samuel-beckett.site
 *.sawdflies.site
@@ -53289,7 +53258,6 @@
 *.aol.spb.su
 *.nextel-ringtone.spb.su
 *.threedrive.su
-*.tradedealvip.su
 *.tradeleads.su
 *.wwclick.su
 *.yip.su
@@ -53426,7 +53394,6 @@
 *.acoossa.top
 *.acoossd.top
 *.www.adbtc.top
-*.afenx.top
 *.hruk.afguk.top
 *.agriculta.top
 *.alimb.top
@@ -53708,7 +53675,6 @@
 *.itad.linetv.tw
 *.microad.tw
 *.dgxjcl.radiantstar.tw
-*.sydz.tw
 *.bs.url.tw
 *.www.chienhung.url.tw
 *.rec2000.at.ua
@@ -54653,9 +54619,6 @@
 *.2.dtxtck1.xyz
 *.dwaterver.xyz
 *.dylenura.xyz
-*.e41.xyz
-*.e48.xyz
-*.e70.xyz
 *.ederiorbrit.xyz
 *.edstylistepro.xyz
 *.cdn.eeco.xyz

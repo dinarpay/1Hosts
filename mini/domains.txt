@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-05T13:48:34.764Z
+# Last modified: 2022-05-05T17:06:16.293Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 67,099 rules!
+#  |Count: 67,058 rules!
 #  |Size: 1.22 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -6828,9 +6828,7 @@ us.ads.justpremium.com
 ssp-ad.momento.dev
 aprtn.com
 mousestats.com
-55a70c5ade.com
 ngp1.intnotif.club
-72c73fef76.55a70c5ade.com
 api.c.avazunativeads.com
 avazunativeads.com
 datanoticias.prisasd.com
@@ -7057,7 +7055,6 @@ analytics.htmedia.in
 crid.bfmio.com
 tunion-api.m.taobao.com
 clickonometrics.pl
-91dacd27c8.d2e48d0dce.com
 cf.ssacdn.com
 sjrtp4.marketo.com
 v.cf.ssacdn.com
@@ -12533,7 +12530,6 @@ logging.goodgamestudios.com
 mt34iofvjay.com
 pm.redbull.com
 prf.vagnt.com
-stats.pornpics.com
 t7z.cupid.ptqy.gitv.tv
 tracker.winudf.com
 tracking.redbutton.de
@@ -18293,7 +18289,6 @@ hats-47b.com
 hundredpercentmargin.com
 id.google.com.qa
 kerio-push-gateway-prod.elasticbeanstalk.com
-marketing.visitmilwaukee.org
 nokaut.link
 osupdateservice.yunos.com
 proof.sudo.vn
@@ -18374,7 +18369,6 @@ wa.gmx.ch
 yumenetworks.com
 ads-d.viber.com
 adyoulike.com
-analytics.lumberliquidators.com
 analytics.poferries.com
 atas.io
 attribution.report
@@ -18489,7 +18483,6 @@ adxxx.com
 aj1937.online
 allotupwardmalicious.com
 azlyta.immowelt.de
-baptist-health.hrm.healthgrades.com
 bettermetrics.co
 bidverdrd.com
 bludwan.com
@@ -18640,7 +18633,6 @@ lga-delivery-8.sys.adgear.com
 localsnaughty.com
 log.news.zing.vn
 log.spotify.com
-marketing.contentguru.com
 mediaffiliation.com
 metrics.astrogaming.com
 newsadsppush.com
@@ -19101,7 +19093,6 @@ trk.business.westernunion.com.au
 smetrics.winc.com.au
 infos.yellow.com.au
 smetrics.yellowpages.com.au
-info.bendigotafe.edu.au
 belong.curtin.edu.au
 smetrics.deakin.edu.au
 info.kangan.edu.au
@@ -19383,7 +19374,6 @@ ethemuseu.biz
 excitedyou.biz
 ads.expat-blog.biz
 fastbuy.biz
-fenfa.biz
 ads.garga.biz
 gmediarelati.biz
 greeandjou.biz
@@ -20539,11 +20529,9 @@ msg.shouji.360.cn
 e.tf.360.cn
 dl.37wan.cn
 image.37wan.cn
-51dengshan.cn
 1.51sxue.cn
 3.5646.cn
 er.5ykj.cn
-70we55s.cn
 1.78500.cn
 81c.cn
 new.915yzt.cn
@@ -20693,7 +20681,6 @@ public.app.autohome.com.cn
 push.app.autohome.com.cn
 c.autohome.com.cn
 clickx.autohome.com.cn
-n.baminw.com.cn
 cctvgb.com.cn
 count.chanet.com.cn
 file.chanet.com.cn
@@ -21034,7 +21021,6 @@ tjqonline.cn
 adreq.togothermany.cn
 adsapi.togothermany.cn
 topstat.cn
-toqrsru.cn
 ttayy.cn
 engine.tuia.cn
 appwall.tv2phone.cn
@@ -21085,7 +21071,6 @@ wodeai.cn
 wowostar.cn
 i.wuhaolin.cn
 j.credit.wwz114.cn
-xerhibx.cn
 xhfrt.cn
 api.xiaohuxi.cn
 xiaoshuoyun.cn
@@ -23259,7 +23244,6 @@ www.admitad.com
 www.admixer.com
 admized.com
 ads.admized.com
-www.admobclick.com
 admobile.com
 b.admost.com
 panel.admost.com
@@ -26705,7 +26689,6 @@ beifd.com
 beift.com
 beifz.com
 beigecombinedsniffing.com
-d.beigedi.com
 ad.beihai365.com
 beihw.com
 static.beintoo.com
@@ -28098,8 +28081,6 @@ ads.casinocity.com
 as1.casinocity.com
 online.casinodelrio.com
 casinogames.com
-banner.casinoking.com
-banner.casinolasvegas.com
 www.casinoonnet.com
 casinorewards.com
 affiliate.casinorewards.com
@@ -28847,7 +28828,6 @@ clownsong.com
 www.clownsong.com
 analytics.cltpstatic.com
 en.clubcooee.com
-banner.clubdicecasino.com
 track.clubfactory.com
 track.clubheshe.com
 clublu.com
@@ -30473,7 +30453,6 @@ disorganizedsweatymash.com
 disparagethence.com
 disparitychevyconceivable.com
 disparityendanger.com
-dispatchunique.com
 dispatchvegasplus.com
 dispensablestranger.com
 displacepepperyadvertisement.com
@@ -30571,7 +30550,6 @@ dmpcounter.com
 cdn.dmpcounter.com
 gcirm.dmregister.com
 track.dmrtb.com
-dmstrck.com
 dmtracker.com
 extended.dmtracker.com
 dmvbdfblevxvx.com
@@ -33170,7 +33148,6 @@ www.funnygreetings.com
 www.funnyreign.com
 ad.funp.com
 funsafetab.com
-conf.funshion.com
 funstage.com
 fun-hits.com
 fuojuw.com
@@ -36373,7 +36350,6 @@ mms.jezebel.com
 cp.jfcdns.com
 jfnnrjfjrfjr.com
 jg3i17759nd0nhh9q53zpy.com
-jgsqfkj.com
 8961.jianbihua.com
 ads.jianchiapp.com
 hh.jiankang.com
@@ -36427,7 +36403,6 @@ jlpbyt.com
 jmpdirect01.com
 app.jmusports.com
 jmvisuals.com
-jmypdkzixne.com
 jnbvckgophfkop.com
 sdc.be.jnj.com
 jnrtavp2x66u.com
@@ -40958,7 +40933,6 @@ www.network-handle.com
 network-marketing24.com
 marketing.netwoven.com
 netzip.com
-ad.net-activities.com
 smetrics.net-a-porter.com
 ad.net-c.com
 net-filter.com
@@ -45344,7 +45318,6 @@ scaredstory.com
 scareshortnovel.com
 scarfthought.com
 scarofnght.com
-banner.scasino.com
 scatteredheat.com
 scatteredoutillicit.com
 scatteredstream.com
@@ -45461,7 +45434,6 @@ seabedchita.com
 seaboblit.com
 ad.seagulltracer.com
 fpc.seahawks.com
-tracking.seakeeper.com
 go.sealthatleak.com
 seamankidding.com
 seamchristmas.com
@@ -52742,7 +52714,6 @@ tp.imwalking.de
 stats.infoboard.de
 metrics.infranken.de
 advertising.ingame.de
-trackerstatistik.init-ag.de
 dcclaa.instyle.de
 intensifier.de
 api.intensifier.de
@@ -54407,7 +54378,6 @@ one88.fun
 onlineporno.fun
 retdaz.fun
 scribevideos.fun
-singledog.fun
 timefeathered.fun
 top88.fun
 toptube.fun
@@ -55703,7 +55673,6 @@ trackset.it
 www.trackset.it
 adserver.webads.it
 images.webads.it
-yobee.it
 tr.clienti.younited-credit.it
 smetrics.global.jcb
 petra.nic.gov.jo
@@ -61406,7 +61375,6 @@ ortshk.tapas.net
 gfw-eu.tapdb.net
 gfw-sg.tapdb.net
 static.tapdb.net
-static-tapad.tapdb.net
 track.tapgerine.net
 tapjoy.net
 tapsirsa.net
@@ -62112,7 +62080,6 @@ app-facade.youmi.net
 dev.youmi.net
 pop.youmi.net
 ad1.img.static.youmi.net
-ad2.img.static.youmi.net
 a.youtubersgonewild.net
 api-resource.youzicheng.net
 api-rssocks.youzicheng.net
@@ -65034,7 +65001,6 @@ club2.shop
 emc.dr-stick.shop
 pokemoney.shop
 whzz.shop
-ybxw.shop
 stats.chapterist.show
 8000plus.si
 www.8000plus.si
@@ -65083,7 +65049,6 @@ llink.site
 loggychops.paulsmith.site
 playiwin.site
 rulkerton.site
-runningman.site
 rvmessage.site
 samuel-beckett.site
 sawdflies.site
@@ -65203,7 +65168,6 @@ zxypenguin.people-group.su
 aol.spb.su
 nextel-ringtone.spb.su
 threedrive.su
-tradedealvip.su
 tradeleads.su
 wwclick.su
 yip.su
@@ -65356,7 +65320,6 @@ a.abismo-katheryne.top
 acoossa.top
 acoossd.top
 www.adbtc.top
-afenx.top
 hruk.afguk.top
 agriculta.top
 alimb.top
@@ -65654,7 +65617,6 @@ asssyy.icook.tw
 itad.linetv.tw
 microad.tw
 dgxjcl.radiantstar.tw
-sydz.tw
 bs.url.tw
 www.chienhung.url.tw
 rec2000.at.ua
@@ -66848,9 +66810,6 @@ dsomethove.xyz
 2.dtxtck1.xyz
 dwaterver.xyz
 dylenura.xyz
-e41.xyz
-e48.xyz
-e70.xyz
 ederiorbrit.xyz
 edstylistepro.xyz
 cdn.eeco.xyz
