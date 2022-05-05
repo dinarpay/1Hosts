@@ -21,5 +21,5 @@ jobs:
       - name: Push
         run: |
           cd repo_gh
-          git push -f origin
+           git push origin --force
           
