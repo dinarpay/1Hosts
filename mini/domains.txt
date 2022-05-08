@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-07T13:37:38.003Z
+# Last modified: 2022-05-08T03:06:52.078Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 66,844 rules!
+#  |Count: 66,833 rules!
 #  |Size: 1.21 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -1858,6 +1858,7 @@ adsmetadata.startappservice.com
 onsite-tag-logs.apps.nielsen.com
 rx-stats3.unrulymedia.com
 cdnx.tribalfusion.com
+metrics.media-amazon.com
 infoevent.startappservice.com
 tg.dr.socdm.com
 sparkusdiscoverdcm781744349491.s.moatpixel.com
@@ -3196,6 +3197,7 @@ click.liftoff.io
 units.knotch.it
 pubguru.com
 cdn.pubguru.com
+pixel.locker2.com
 criteo-sync.teads.tv.edgekey.net
 sdk.open.talk.gepush.com
 api.huqindustries.co.uk
@@ -7936,6 +7938,7 @@ cadlsyndicate.com
 fl.a.ki
 smetrics.laredoute.fr
 xml.trafficmoose.com
+smetrics.bbb.org
 cache-ha.pushwoosh.com
 static-de.plista.com
 bdapi.ads.heytapmobi.com
@@ -10737,6 +10740,7 @@ smetrics.officeworks.com.au
 static.clevertap.com
 stg-data-sg.ads.heytapmobi.com
 e377.thestar.com
+kewhulawi.com
 rentracks.jp
 superleads.offerstrack.net
 ru.info.lgsmartad.com
@@ -13456,7 +13460,6 @@ adcrowd.com
 assets.bravenet.com
 atzekromchan.com
 ckwlurries.com
-marketing.executivetravel.com
 s-assets.tp-cdn.com
 secure.bolt8snap.com
 sstats.mt.com
@@ -17144,7 +17147,6 @@ display.xad.com
 hazardousschooloutcry.com
 istatistik.trthaber.com
 jubna.com
-marketing.mhe-demag.com
 ns4.criteo.com
 pfp.sina.com.cn
 phiriaxi.com
@@ -17843,7 +17845,6 @@ clickreport.com
 configjp2.veinteractive.com
 curdlecobiron.com
 cylenceprotect.com
-discover.interlochen.org
 engine.webgozar.ir
 entree.igetget.com
 freewheel.com
@@ -17948,7 +17949,6 @@ log.anninhthudo.vn
 malthustutball.com
 matomopvext.oebb.at
 mediaathay.org.uk
-mediacorp.hb-api.omtrdc.net
 metric.picodi.com
 mp3pro.xyz
 news02.biz
@@ -18729,7 +18729,6 @@ adserver.lanacion.com.ar
 estadisticas.lanacion.com.ar
 smetrics.nexgard.com.ar
 analytics.redlink.com.ar
-sanalytics.tntsports.com.ar
 ads.localhost.net.ar
 ads1.telecentro.net.ar
 euroad1.advantage.as
@@ -20238,7 +20237,6 @@ nvkrm.instadating.club
 isiblenorm.club
 cdn.itphanpytor.club
 jmpmedia.club
-k11designstore.club
 kafar4.club
 a.katomu.club
 kemperare.club
@@ -20392,7 +20390,6 @@ msg.shouji.360.cn
 e.tf.360.cn
 dl.37wan.cn
 image.37wan.cn
-3z3sfuj.cn
 1.51sxue.cn
 3.5646.cn
 er.5ykj.cn
@@ -20819,7 +20816,6 @@ patriot.cs.pp.cn
 server.m.pp.cn
 b1.puxuewang.cn
 fd2.qchannel03.cn
-qhonzpl.cn
 8131.qizhihaotian.cn
 8132.qizhihaotian.cn
 qsnyswg.cn
@@ -20837,7 +20833,6 @@ roay.cn
 j.s11.cn
 404.safedog.cn
 sbldw.cn
-selectinstall.cn
 sglyd.cn
 1.shopit.cn
 api.shuzilm.cn
@@ -20911,7 +20906,6 @@ cdn.wenzhangba.cn
 redir.wggames.cn
 wilf.cn
 lm1.wkpcw.cn
-bdjiaoben.wmxa.cn
 wodeai.cn
 wowostar.cn
 i.wuhaolin.cn
@@ -20924,7 +20918,6 @@ tongji.xinmin.cn
 www2.xinmin.cn
 xkzjq.cn
 a.xnimg.cn
-xsvgpjl.cn
 rst2.y3600.cn
 js.yanyue.cn
 a.yellowurl.cn
@@ -28517,7 +28510,6 @@ stat.clickio.com
 clickioglobal.com
 clickmanage.com
 www.clickmanage.com
-clickmena.com
 www.clickmetertracking.com
 clicknerd.com
 clickopop1000.com
@@ -30364,7 +30356,6 @@ dmpcounter.com
 cdn.dmpcounter.com
 gcirm.dmregister.com
 track.dmrtb.com
-dmshlhnzvzu.com
 dmtracker.com
 extended.dmtracker.com
 dmvbdfblevxvx.com
@@ -32727,7 +32718,6 @@ pagexray.fouanalytics.com
 pagexray-eu.fouanalytics.com
 www.fouanalytics.com
 foughtrefusal.com
-foundationbettynapoleon.com
 foundedphase.com
 fourarithmetic.com
 fourfork.com
@@ -34825,7 +34815,6 @@ hugelyantony.com
 hugelyimmovable.com
 yehyqc.hugoboss.com
 stats.hugoreeves.com
-mc.hujiang.com
 ads-v-darwin.hulu.com
 a.huluad.com
 huluruiner.com
@@ -37409,7 +37398,6 @@ tracking.lightingdirect.com
 tracking.lightingshowplace.com
 lightlycauldron.com
 lightlygavetusk.com
-lightningprefacegrant.com
 connect.lightriver.com
 ligninenchant.com
 liivecams.com
@@ -39658,6 +39646,12 @@ mkt11198.com
 mkt11199.com
 mkt11200.com
 mkt11201.com
+mkt11280.com
+mkt11315.com
+mkt11325.com
+mkt11331.com
+mkt11332.com
+mkt11336.com
 go.mktgcampaigns.com
 mkto-ab410147.com
 mkto-k0029.com
@@ -41342,7 +41336,6 @@ www.nurno.com
 ptracker.nurturehq.com
 nuseek.com
 beacon.nuskin.com
-nutabuse.com
 www.nutabuse.com
 www.nutaku.com
 nutatesthreip.com
@@ -43115,7 +43108,6 @@ poyang.com
 t.poyry.com
 api.pozvonim.com
 pp2ppsch1hount1hf.com
-pp6r1.com
 pb.sys.pp8.com
 www.pp9899.com
 pp98trk.com
@@ -45607,7 +45599,6 @@ sharppatch.com
 start.sharpservices.com
 koi-xj9ick.sharpspring.com
 sharpycurvet.com
-sdc.shawinc.com
 shawuh2a8nyam09.com
 shbet0.com
 sp.sheboyganpress.com
@@ -47978,7 +47969,6 @@ cdn.banner.thumbplay.com
 ads.thumbr.com
 thumpssleys.com
 thunderingrose.com
-thuqqyggwc.com
 thurag.com
 www.thurag.com
 thurnflfant.com
@@ -51543,7 +51533,6 @@ a8click.you-up.com
 yovenbugsha.com
 yoyadsdom.com
 ypiads.com
-ypjmvdfxqw.com
 www.ypmadserver.com
 www.ypmate.com
 ypnciu.com
@@ -54893,6 +54882,7 @@ m.x-power.info
 yonoka.info
 zkdkvnzsdxge.info
 vp1.zkshfbdg.info
+hx9.ink
 ncore.ink
 shuake.ink
 analytics.winter.ink
@@ -55468,7 +55458,6 @@ dataidea.it
 dmatica.it
 dondolino.it
 fvaweb.it
-web.x.ilpost.it
 impactify.it
 smetrics.infomedics.it
 stats.justpaste.it
@@ -56705,7 +56694,6 @@ trac.oferting.com.mx
 ad.terra.com.mx
 smetrics.tiffany.com.mx
 track.docusign.mx
-lantern.kronos.mx
 ltripg.marti.mx
 tr.news-companeo.mx
 gzimdi.soloautos.mx
@@ -56753,6 +56741,7 @@ sprngmnews.name
 plausible.strzibny.name
 threecd.name
 winternewsnow.name
+xiaodian.name
 yuluna.name
 id.google.ne
 img.0279.net
@@ -58095,6 +58084,7 @@ d301cxwfymy227.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
+d31y97ze264gaa.cloudfront.net
 d32bug9eb0g0bh.cloudfront.net
 d32z5ni8t5127x.cloudfront.net
 d33otidwg56k90.cloudfront.net
@@ -61118,7 +61108,6 @@ www.stabx.net
 stadtamt.net
 ad.stadtplan.net
 stagroam.net
-tracking.stampready.net
 statistichegratis.net
 statistik-gallup.net
 www.statistik-gallup.net
@@ -62497,7 +62486,6 @@ viapizza.online
 crtv.wbidder.online
 www.wbidder.online
 yorclk.wbidder.online
-weldsystem.online
 cdn1.winr.online
 ynklendr.online
 zeenite.online
@@ -66562,6 +66550,7 @@ basvformu3.xyz
 basvformu5.xyz
 benureko.xyz
 berkshiretoday.xyz
+beside-u.xyz
 lander.bestsmartlink.xyz
 betads.xyz
 bidmyqps.xyz
@@ -66600,6 +66589,7 @@ dsomethove.xyz
 2.dtxtck1.xyz
 dwaterver.xyz
 dylenura.xyz
+e05.xyz
 ederiorbrit.xyz
 edstylistepro.xyz
 cdn.eeco.xyz
@@ -66666,7 +66656,6 @@ jehlenmen.xyz
 jkha742.xyz
 tool.justshopping.xyz
 juwymapy.xyz
-jzcan.xyz
 k1rsdhu.xyz
 ka.kakakakaka.xyz
 kdsk32lfa.xyz
@@ -66765,6 +66754,7 @@ shilternimpossip.xyz
 silverfix.xyz
 sitecham.xyz
 skytraf.xyz
+smfjfgie.xyz
 spaceio.xyz
 sportstreams.xyz
 sports-streams-online.xyz
@@ -66822,7 +66812,6 @@ wutipupi.xyz
 wwow.xyz
 wwoww.xyz
 wwowww.xyz
-wzl03.xyz
 xcamz.xyz
 xhydh39.xyz
 stats.xtraffic.xyz
