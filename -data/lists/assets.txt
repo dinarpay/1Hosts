@@ -234,6 +234,10 @@ https://github.com/MitaZ/Better_Filter/raw/master/Quantumult_X/Filter.list
 https://github.com/568475513/secret_domain/raw/master/filter.txt
 https://github.com/CipherOps/MiscHostsFiles/raw/master/MiscAdTrackingHostBlock.txt
 https://github.com/igorskyflyer/ad-void/raw/main/AdVoid.Core.txt
+https://github.com/sutchan/dnsmasq_ads_filter/raw/main/dnsmasq-ads-filter-list.txt
+https://github.com/SukkaW/Surge/raw/master/List/domainset/reject_sukka.conf
+https://github.com/npljy/npljy.github.io/raw/main/blocks/dns.txt
+https://github.com/npljy/npljy.github.io/raw/main/blocks/filter.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 
