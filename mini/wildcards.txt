@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-11T12:50:07.994Z
+# Last modified: 2022-05-11T14:16:35.645Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 54,842 rules!
+#  |Count: 54,874 rules!
 #  |Size: 1.08 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -7035,7 +7035,6 @@
 *.vodus.com
 *.worldtxt.club
 *.adserver.71i.de
-*.info.ccbjournal.com
 *.production.wootric.com.herokudns.com
 *.smetrics.beneplace.com
 *.awempire.com
@@ -7695,6 +7694,7 @@
 *.tracking.ptc.com
 *.appsdt.com
 *.pg-ad-b1.ws.126.net
+*.taimanclub.com
 *.adverserve.net
 *.analytics.mlstatic.com
 *.holder.com.ua
@@ -8946,7 +8946,6 @@
 *.ampxchange.com
 *.api.wootric.com
 *.atlas.iad-03.braze.com
-*.data.mediaintelligence.de
 *.m.atm.youku.com
 *.paht.tech
 *.pnstat.com
@@ -9624,7 +9623,6 @@
 *.app-ab05.marketo.com
 *.bs-dante.ru
 *.events.tvtime.com
-*.marketing.ftfnews.com
 *.sadobemetrics.la-z-boy.com
 *.servicetick.com
 *.transactionale.com
@@ -10953,7 +10951,6 @@
 *.hub.securedtouch.com
 *.kindjalvitalic.com
 *.kodcad.kr
-*.marketing.executivetravel.com
 *.michealmoyite.com
 *.neon.today
 *.oxbet.net
@@ -12580,7 +12577,6 @@
 *.juicesphose.com
 *.masdpanalytics.azureedge.net
 *.meendocash.com
-*.news.bridgetowermedia.com
 *.nnn.ru
 *.plugin.mobopay.baidu.com
 *.res.elle.fr
@@ -13128,9 +13124,7 @@
 *.dt71.net
 *.ecustomeropinions.com
 *.fathuntsgall.com
-*.fcone.fidelitycharitable.org
 *.gdeil.hit.gemius.pl
-*.heron.notability.com
 *.hetadinh.com
 *.navrcholu.cz
 *.nl.rcd.iqiyi.com
@@ -13154,7 +13148,6 @@
 *.concentrationminefield.com
 *.dg.irco.com
 *.egistonemes.com
-*.egoi.page
 *.endljp.abv.bg
 *.ensign.unbounce.com
 *.gabbart.nl
@@ -13332,7 +13325,6 @@
 *.datasign.co
 *.entree.igetget.com
 *.events.niit-mts.com
-*.fctms.fidelitycharitable.org
 *.fogl1onf.com
 *.frog.yuanfudao.com
 *.js.newsmobile.co.kr
@@ -13496,7 +13488,6 @@
 *.contalyze.com
 *.cookie.amerigas.com
 *.dlfvgndsdfsn.com
-*.fish.whitney.org
 *.goaciptu.net
 *.haltinggold.com
 *.log.reformal.ru
@@ -13519,7 +13510,6 @@
 *.yoc.younited-credit.com
 *.zebraicrudista.com
 *.9purdfe9xg.com
-*.abcnews.hb.omtrdc.net
 *.aftrk1.com
 *.altowriestwispy.com
 *.analytics.vietnamfinance.vn
@@ -13568,10 +13558,8 @@
 *.lingamretene.com
 *.logv2.xiti.com
 *.maltunfaithfulpredominant.com
-*.marketing.hines.com
 *.metrics.fressnapf.de
 *.metrics.ionos.co.uk
-*.news.molawyersmedia.com
 *.phn.apnanalytics.com
 *.proofpositivemedia.com
 *.relevantknowledge.com
@@ -13637,6 +13625,7 @@
 *.tunein.adswizz.com
 *.us-pl.lemnisk.co
 *.www.bitstarz.com
+*.yo88vn.com
 *.zfzhwz.hema.nl
 *.a2put.chinaz.com
 *.ad.bluepartner.eu
@@ -14038,7 +14027,6 @@
 *.data.segugio.it
 *.dcclaa.bunte.de
 *.driddleurease.com
-*.emetrics.eastwestbank.com
 *.falcoware.com
 *.ghghgf.51dongshi.com
 *.hit.mybestpro.com
@@ -14090,7 +14078,6 @@
 *.justclick.ru
 *.kerio-push-gateway-prod.elasticbeanstalk.com
 *.madserver.net
-*.marketing.contentguru.com
 *.methoxyunpaled.com
 *.mormont.gamer-network.net
 *.mpush.cn
@@ -14188,6 +14175,7 @@
 *.analytics.superstructure.ai
 *.aiisa.am
 *.pl.1feed.app
+*.78966.app
 *.8kbet.app
 *.stats.bitpost.app
 *.stats.breathly.app
@@ -14220,6 +14208,7 @@
 *.stats.sparkloop.app
 *.app-stats.supernotes.app
 *.site-stats.supernotes.app
+*.taiok88.app
 *.widget.teletype.app
 *.pa.travelwhiz.app
 *.v99win.app
@@ -15266,6 +15255,7 @@
 *.477116.cc
 *.6gt.cc
 *.771058.cc
+*.88new.cc
 *.www.aafanke.cc
 *.ad44.cc
 *.adnow.cc
@@ -15617,6 +15607,7 @@
 *.fesurvivial.club
 *.fi88.club
 *.gamebai.club
+*.gamex8vn.club
 *.gencehepatie.club
 *.givestment.club
 *.go88.club
@@ -15634,6 +15625,7 @@
 *.nvkrm.instadating.club
 *.isiblenorm.club
 *.cdn.itphanpytor.club
+*.iwiin.club
 *.jmpmedia.club
 *.kafar4.club
 *.a.katomu.club
@@ -15767,6 +15759,7 @@
 *.xemdabanh.club
 *.yescomition.club
 *.zo.club
+*.zzxxli.club
 *.en.001phone.cn
 *.ssp.08160.cn
 *.go.10086.cn
@@ -17027,6 +17020,7 @@
 *.www.8ue9q7i.com
 *.8wtkfxiss1o2.com
 *.8xbet.com
+*.8xbet11.com
 *.8xbet22.com
 *.8xbet71.com
 *.8xbet96.com
@@ -22960,6 +22954,7 @@
 *.csstatic.com
 *.cstraffic.com
 *.statistics.csweapons.com
+*.csyys0731.com
 *.a.ctasnet.com
 *.ads.ctasnet.com
 *.p.ctasnet.com
@@ -26221,6 +26216,7 @@
 *.gm-adkpf.gamemeca.com
 *.dl.gameplaylabs.com
 *.www.gameplaylabs.com
+*.gameplaytogether.com
 *.gamerickius.com
 *.gamersad.com
 *.wmbd.gamersky.com
@@ -26239,6 +26235,7 @@
 *.affiliate.gamestop.com
 *.stats.gamestop.com
 *.sp.gametimepa.com
+*.gamevui86.com
 *.game-advertising-online.com
 *.game-clicks.com
 *.referral.game-insight.com
@@ -27719,6 +27716,7 @@
 *.i5iog3mlrw.com
 *.i99906.com
 *.i99908.com
+*.i9bet5.com
 *.marketing.iaclarington.com
 *.iaffiliates.com
 *.tpa7.iahorro.com
@@ -28863,6 +28861,7 @@
 *.affiliates.jumia.com
 *.jumplead.com
 *.jumpvoobmi.com
+*.jun88k.com
 *.junbi-tracker.com
 *.l.junglekouen.com
 *.junotherome.com
@@ -28906,6 +28905,7 @@
 *.jzkapp.com
 *.ebiscname.j-esthe.com
 *.k5zoom.com
+*.k8live26.com
 *.k8sport.com
 *.k8trangphim.com
 *.k8vina17.com
@@ -29068,7 +29068,11 @@
 *.kimsa338.com
 *.kimsa598.com
 *.kimsa668.com
+*.kimsa68.com
+*.kimsa6868.com
 *.kimsa88.com
+*.kimsa888.com
+*.kimsa938.com
 *.kimsa98.com
 *.kindeargrain.com
 *.kindnessmarshalping.com
@@ -44538,6 +44542,7 @@
 *.onlineporno.fun
 *.retdaz.fun
 *.scribevideos.fun
+*.shangguan.fun
 *.timefeathered.fun
 *.top88.fun
 *.toptube.fun
@@ -44712,6 +44717,7 @@
 *.bional-dested.icu
 *.fortran.icu
 *.fttwin.icu
+*.manvip.icu
 *.methree-salien.icu
 *.readly-renterval.icu
 *.samage-bility.icu
@@ -44957,6 +44963,7 @@
 *.freeiphone.info
 *.funlife.info
 *.funtoday.info
+*.gamevip.info
 *.garotas.info
 *.gleaminist.info
 *.glokta.info
@@ -45140,6 +45147,7 @@
 *.ayuki.ink
 *.ncore.ink
 *.shuake.ink
+*.sikai.ink
 *.analytics.winter.ink
 *.tr.emailing.coe.int
 *.a-sjo.1rx.io
@@ -46332,11 +46340,16 @@
 *.adspro.live
 *.allsports4free.live
 *.www.befuglago.live
+*.bk8.live
 *.bong99.live
 *.ablink.notifications.br.live
 *.ablink.watch.br.live
+*.choisv88.live
 *.stats.doors.live
 *.id.fc2-ppv.live
+*.gameb52.live
+*.gamerikvip.live
+*.go88vn.live
 *.cheese.guac.live
 *.s03.hostcontent.live
 *.s04.hostcontent.live
@@ -46444,6 +46457,7 @@
 *.0x5.me
 *.123date.me
 *.tracker.520call.me
+*.88online.me
 *.aab-check.me
 *.adreach.me
 *.adspop.me
@@ -47503,6 +47517,7 @@
 *.cheewhoa.net
 *.cherryescort.net
 *.cherrytube.net
+*.chinaxinhe.net
 *.v5.chinoc.net
 *.chobsang.net
 *.stats.chronoslabs.net
@@ -48912,6 +48927,7 @@
 *.ads.game.net
 *.gameads.net
 *.gamesites100.net
+*.gamhay8live.net
 *.www.gamyun.net
 *.analytics.gandi.net
 *.gatewey.net
@@ -49991,6 +50007,7 @@
 *.reporting.net
 *.policy.responsys.net
 *.ads.ressp.net
+*.rgks.net
 *.wpc.32df9.rhocdn.net
 *.rikkk.net
 *.rikvipp.net
@@ -50256,6 +50273,7 @@
 *.toonoost.net
 *.top26.net
 *.top4top.net
+*.top88vn.net
 *.topadblocker.net
 *.topgamesites.net
 *.toushichannel.net
@@ -50284,6 +50302,7 @@
 *.www.truentertainment.net
 *.ts166.net
 *.tsyndicate.net
+*.tt128.net
 *.tujourda.net
 *.turbo-cdn.net
 *.www.tutka.net
@@ -51494,6 +51513,7 @@
 *.xxx-babes.org
 *.yarpp.org
 *.yestorrents.org
+*.yiniyiwo.org
 *.your-analytics.org
 *.youtubesave.org
 *.cny.yoyo.org
@@ -51802,6 +51822,8 @@
 *.flipflap.pro
 *.forads.pro
 *.frenchequal.pro
+*.game88.pro
+*.gameb52.pro
 *.erp.garan.pro
 *.genishury.pro
 *.glochykeste.pro
@@ -53381,6 +53403,7 @@
 *.acoossa.top
 *.acoossd.top
 *.www.adbtc.top
+*.ae3888.top
 *.hruk.afguk.top
 *.agriculta.top
 *.alimb.top
@@ -53388,6 +53411,7 @@
 *.amarketing.top
 *.annexere.top
 *.arechassista.top
+*.banca-red88.top
 *.bestclevercaptcha.top
 *.a.bestcontentaccess.top
 *.bestcontentcompany.top
@@ -53416,6 +53440,7 @@
 *.entmatchw.top
 *.entractta.top
 *.entsconsesi.top
+*.eurowin.top
 *.cdn.everylead.top
 *.extremiu.top
 *.fingahvf.top
@@ -53448,6 +53473,7 @@
 *.www.mkjshusgus5481.top
 *.ad.muyang888.top
 *.s.newsportalssl1.top
+*.nimazhale.top
 *.nmanateex.top
 *.nsparket.top
 *.www.oiaqbedrvfh1834.top
@@ -53457,6 +53483,7 @@
 *.pervas.top
 *.phoneapplicationlabs.top
 *.solutions.playernetca.top
+*.playgo88.top
 *.pricestern.top
 *.punosy.top
 *.push-notifications.top
@@ -54011,6 +54038,7 @@
 *.lay.dubya.us
 *.tracking.ecosquid.us
 *.famo.us
+*.gamevipclub.us
 *.ads.gdriveplayer.us
 *.id.google.us
 *.hamoza.us
@@ -54046,6 +54074,7 @@
 *.smetrics.viega.us
 *.w00t.us
 *.whitesmoke.us
+*.yo88vn.us
 *.engage.3m.com.uy
 *.smetrics.bbva.com.uy
 *.ads.elpais.com.uy
@@ -54060,8 +54089,10 @@
 *.log.trendingnow.video
 *.388bet.vin
 *.bet52.vin
+*.king66.vin
 *.playmanclub.vin
 *.sunvin.vin
+*.taigamesunwin.vin
 *.w88.vin
 *.you88.vin
 *.388bet.vip
@@ -54471,6 +54502,7 @@
 *.vic.win
 *.vnq8.win
 *.yo88.win
+*.yo99.win
 *.smetrics.flickr.wine
 *.badtopwitch.work
 *.a8.denki-koji.work
@@ -54661,7 +54693,6 @@
 *.iknight.xyz
 *.ismovernm.xyz
 *.ixnow.xyz
-*.j49.xyz
 *.java8.xyz
 *.thescript.javfinder.xyz
 *.javoyynu.xyz
@@ -54743,6 +54774,7 @@
 *.asg.pornx99.xyz
 *.portoutsid.xyz
 *.premiumstats.xyz
+*.qd3zn.xyz
 *.qofowyki.xyz
 *.raccourir.xyz
 *.raigebro.xyz

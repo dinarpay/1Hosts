@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-11T12:50:06.824Z
+# Last modified: 2022-05-11T14:16:34.689Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 66,910 rules!
+#  |Count: 66,942 rules!
 #  |Size: 1.22 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -9952,7 +9952,6 @@ vodus.com
 worldtxt.club
 adserver.71i.de
 appmarketm.g2afse.com
-info.ccbjournal.com
 l.tcp.push.mob.com
 production.wootric.com.herokudns.com
 smetrics.beneplace.com
@@ -10793,6 +10792,7 @@ tracking.ptc.com
 widgets.adskeeper.com
 appsdt.com
 pg-ad-b1.ws.126.net
+taimanclub.com
 adverserve.net
 analytics.mlstatic.com
 dmp.adotmob.com
@@ -12382,7 +12382,6 @@ ampxchange.com
 api.wootric.com
 atlas.iad-03.braze.com
 configaus2.veinteractive.com
-data.mediaintelligence.de
 m.atm.youku.com
 paht.tech
 pnstat.com
@@ -13220,7 +13219,6 @@ api.placed.com
 app-ab05.marketo.com
 bs-dante.ru
 events.tvtime.com
-marketing.ftfnews.com
 sadobemetrics.la-z-boy.com
 servicetick.com
 ssl.logger.co.kr
@@ -14877,7 +14875,6 @@ gc.ds.duapps.com
 hub.securedtouch.com
 kindjalvitalic.com
 kodcad.kr
-marketing.executivetravel.com
 michealmoyite.com
 neon.today
 oxbet.net
@@ -16810,7 +16807,6 @@ goepxwacxhtkix.com
 juicesphose.com
 masdpanalytics.azureedge.net
 meendocash.com
-news.bridgetowermedia.com
 nnn.ru
 plugin.mobopay.baidu.com
 res.elle.fr
@@ -17453,9 +17449,7 @@ disrespectpreceding.com
 dt71.net
 ecustomeropinions.com
 fathuntsgall.com
-fcone.fidelitycharitable.org
 gdeil.hit.gemius.pl
-heron.notability.com
 hetadinh.com
 jmp.c-rings.net
 navrcholu.cz
@@ -17483,7 +17477,6 @@ code.ainsyndication.com
 concentrationminefield.com
 dg.irco.com
 egistonemes.com
-egoi.page
 endljp.abv.bg
 ensign.unbounce.com
 gabbart.nl
@@ -17691,7 +17684,6 @@ datasign.co
 dnt.qualaroo.com
 entree.igetget.com
 events.niit-mts.com
-fctms.fidelitycharitable.org
 fogl1onf.com
 frog.yuanfudao.com
 js.newsmobile.co.kr
@@ -17884,7 +17876,6 @@ contalyze.com
 cookie.amerigas.com
 deezer.deliveryengine.adswizz.com
 dlfvgndsdfsn.com
-fish.whitney.org
 goaciptu.net
 haltinggold.com
 log.reformal.ru
@@ -17913,7 +17904,6 @@ yoc.younited-credit.com
 zebraicrudista.com
 5-8-12-c45a17f790-android.userflows.ingest.crittercism.com
 9purdfe9xg.com
-abcnews.hb.omtrdc.net
 adsx.greystripe.com
 aftrk1.com
 altowriestwispy.com
@@ -17980,10 +17970,8 @@ khayatarai.com
 lingamretene.com
 logv2.xiti.com
 maltunfaithfulpredominant.com
-marketing.hines.com
 metrics.fressnapf.de
 metrics.ionos.co.uk
-news.molawyersmedia.com
 phn.apnanalytics.com
 proofpositivemedia.com
 rc.revolvermaps.com
@@ -18059,6 +18047,7 @@ tunein.adswizz.com
 us-pl.lemnisk.co
 www.bitstarz.com
 www.mypagerank.net
+yo88vn.com
 zfzhwz.hema.nl
 a2put.chinaz.com
 ad.bluepartner.eu
@@ -18532,7 +18521,6 @@ data.segugio.it
 dcclaa.bunte.de
 deliveryengine.cox.adswizz.com
 driddleurease.com
-emetrics.eastwestbank.com
 falcoware.com
 fr.ads.justpremium.com
 ghghgf.51dongshi.com
@@ -18594,7 +18582,6 @@ js14.adlooxtracking.com
 justclick.ru
 kerio-push-gateway-prod.elasticbeanstalk.com
 madserver.net
-marketing.contentguru.com
 methoxyunpaled.com
 mormont.gamer-network.net
 mpush.cn
@@ -18714,6 +18701,7 @@ dash.vdo.ai
 www.vdo.ai
 aiisa.am
 pl.1feed.app
+78966.app
 8kbet.app
 stats.bitpost.app
 stats.breathly.app
@@ -18746,6 +18734,7 @@ snapcheat.app
 stats.sparkloop.app
 app-stats.supernotes.app
 site-stats.supernotes.app
+taiok88.app
 widget.teletype.app
 pa.travelwhiz.app
 v99win.app
@@ -19880,6 +19869,7 @@ tu9.3wk.cc
 477116.cc
 6gt.cc
 771058.cc
+88new.cc
 www.aafanke.cc
 ad44.cc
 adnow.cc
@@ -20265,6 +20255,7 @@ fatwalkinger.club
 fesurvivial.club
 fi88.club
 gamebai.club
+gamex8vn.club
 gencehepatie.club
 givestment.club
 go88.club
@@ -20282,6 +20273,7 @@ c4n.ijerk.club
 nvkrm.instadating.club
 isiblenorm.club
 cdn.itphanpytor.club
+iwiin.club
 jmpmedia.club
 kafar4.club
 a.katomu.club
@@ -20416,6 +20408,7 @@ xauthorous.club
 xemdabanh.club
 yescomition.club
 zo.club
+zzxxli.club
 en.001phone.cn
 ssp.08160.cn
 go.10086.cn
@@ -21869,6 +21862,7 @@ uat1.bfsspadserver.8le8le.com
 www.8ue9q7i.com
 8wtkfxiss1o2.com
 8xbet.com
+8xbet11.com
 8xbet22.com
 8xbet71.com
 8xbet96.com
@@ -29541,6 +29535,7 @@ linux.css2.com
 csstatic.com
 cstraffic.com
 statistics.csweapons.com
+csyys0731.com
 a.ctasnet.com
 ads.ctasnet.com
 p.ctasnet.com
@@ -33245,6 +33240,7 @@ ads.gamemeca.com
 gm-adkpf.gamemeca.com
 dl.gameplaylabs.com
 www.gameplaylabs.com
+gameplaytogether.com
 gamerickius.com
 gamersad.com
 www.gamersad.com
@@ -33267,6 +33263,7 @@ www.gamesrevenue.com
 affiliate.gamestop.com
 stats.gamestop.com
 sp.gametimepa.com
+gamevui86.com
 game-advertising-online.com
 www.game-advertising-online.com
 www2.game-advertising-online.com
@@ -35020,6 +35017,7 @@ i3535.com
 i5iog3mlrw.com
 i99906.com
 i99908.com
+i9bet5.com
 marketing.iaclarington.com
 cdlc.iadvize.com
 iaffiliates.com
@@ -36350,6 +36348,7 @@ jumboprodigious.com
 affiliates.jumia.com
 jumplead.com
 jumpvoobmi.com
+jun88k.com
 junbi-tracker.com
 www.junbi-tracker.com
 l.junglekouen.com
@@ -36500,6 +36499,7 @@ t2.jzkapp.com
 ebiscname.j-esthe.com
 k5zoom.com
 www.k5zoom.com
+k8live26.com
 k8sport.com
 k8trangphim.com
 k8vina17.com
@@ -36671,7 +36671,11 @@ kimsa1116.com
 kimsa338.com
 kimsa598.com
 kimsa668.com
+kimsa68.com
+kimsa6868.com
 kimsa88.com
+kimsa888.com
+kimsa938.com
 kimsa98.com
 kindeargrain.com
 kindnessmarshalping.com
@@ -54236,6 +54240,7 @@ one88.fun
 onlineporno.fun
 retdaz.fun
 scribevideos.fun
+shangguan.fun
 timefeathered.fun
 top88.fun
 toptube.fun
@@ -54418,6 +54423,7 @@ a.44oo.icu
 bional-dested.icu
 fortran.icu
 fttwin.icu
+manvip.icu
 methree-salien.icu
 readly-renterval.icu
 samage-bility.icu
@@ -54715,6 +54721,7 @@ francoistsjacqu.info
 freeiphone.info
 funlife.info
 funtoday.info
+gamevip.info
 garotas.info
 gleaminist.info
 glokta.info
@@ -54918,6 +54925,7 @@ vp1.zkshfbdg.info
 ayuki.ink
 ncore.ink
 shuake.ink
+sikai.ink
 analytics.winter.ink
 tr.emailing.coe.int
 a-sjo.1rx.io
@@ -56334,11 +56342,16 @@ in9.zog.link
 adspro.live
 allsports4free.live
 www.befuglago.live
+bk8.live
 bong99.live
 ablink.notifications.br.live
 ablink.watch.br.live
+choisv88.live
 stats.doors.live
 id.fc2-ppv.live
+gameb52.live
+gamerikvip.live
+go88vn.live
 cheese.guac.live
 s03.hostcontent.live
 s04.hostcontent.live
@@ -56458,6 +56471,7 @@ promo.md
 0x5.me
 123date.me
 tracker.520call.me
+88online.me
 aab-check.me
 api.adbro.me
 portal.adbro.me
@@ -57808,6 +57822,7 @@ cheeltee.net
 cheewhoa.net
 cherryescort.net
 cherrytube.net
+chinaxinhe.net
 v5.chinoc.net
 chobsang.net
 stats.chronoslabs.net
@@ -59297,6 +59312,7 @@ gaisteem.net
 ads.game.net
 gameads.net
 gamesites100.net
+gamhay8live.net
 www.gamyun.net
 analytics.gandi.net
 gatewey.net
@@ -60957,6 +60973,7 @@ policy.responsys.net
 ads.ressp.net
 filter.revrtb.net
 www.revrtb.net
+rgks.net
 wpc.32df9.rhocdn.net
 rikkk.net
 rikvipp.net
@@ -61293,6 +61310,7 @@ toonoost.net
 top26.net
 top4top.net
 f.top4top.net
+top88vn.net
 topadblocker.net
 topgamesites.net
 toushichannel.net
@@ -61331,6 +61349,7 @@ a.trkme.net
 www.truentertainment.net
 ts166.net
 tsyndicate.net
+tt128.net
 tujourda.net
 turbo-cdn.net
 www.tutka.net
@@ -63066,6 +63085,7 @@ code.xidx.org
 xxx-babes.org
 yarpp.org
 yestorrents.org
+yiniyiwo.org
 your-analytics.org
 youtubesave.org
 cny.yoyo.org
@@ -63405,6 +63425,8 @@ firstclick.pro
 flipflap.pro
 forads.pro
 frenchequal.pro
+game88.pro
+gameb52.pro
 erp.garan.pro
 genishury.pro
 glochykeste.pro
@@ -65169,6 +65191,7 @@ aboveredirect.top
 acoossa.top
 acoossd.top
 www.adbtc.top
+ae3888.top
 hruk.afguk.top
 agriculta.top
 alimb.top
@@ -65176,6 +65199,7 @@ alimc1.top
 amarketing.top
 annexere.top
 arechassista.top
+banca-red88.top
 bestclevercaptcha.top
 a.bestcontentaccess.top
 bestcontentcompany.top
@@ -65205,6 +65229,7 @@ goog.emailon.top
 entmatchw.top
 entractta.top
 entsconsesi.top
+eurowin.top
 cdn.everylead.top
 extremiu.top
 fingahvf.top
@@ -65237,6 +65262,7 @@ a.miyudaquan.top
 www.mkjshusgus5481.top
 ad.muyang888.top
 s.newsportalssl1.top
+nimazhale.top
 nmanateex.top
 nsparket.top
 www.oiaqbedrvfh1834.top
@@ -65246,6 +65272,7 @@ perienfcefot.top
 pervas.top
 phoneapplicationlabs.top
 solutions.playernetca.top
+playgo88.top
 pricestern.top
 punosy.top
 push-notifications.top
@@ -65842,6 +65869,7 @@ www.downloadz.us
 lay.dubya.us
 tracking.ecosquid.us
 famo.us
+gamevipclub.us
 ads.gdriveplayer.us
 id.google.us
 hamoza.us
@@ -65883,6 +65911,7 @@ smetrics.viega.us
 w00t.us
 whitesmoke.us
 www.whitesmoke.us
+yo88vn.us
 engage.3m.com.uy
 smetrics.bbva.com.uy
 ads.elpais.com.uy
@@ -65897,8 +65926,10 @@ analytics.hostyour.video
 log.trendingnow.video
 388bet.vin
 bet52.vin
+king66.vin
 playmanclub.vin
 sunvin.vin
+taigamesunwin.vin
 w88.vin
 you88.vin
 388bet.vip
@@ -66491,6 +66522,7 @@ trafiq.win
 vic.win
 vnq8.win
 yo88.win
+yo99.win
 smetrics.flickr.wine
 cdn.adserve.work
 www.adserve.work
@@ -66715,7 +66747,6 @@ iesboughts.xyz
 iknight.xyz
 ismovernm.xyz
 ixnow.xyz
-j49.xyz
 java8.xyz
 thescript.javfinder.xyz
 javoyynu.xyz
@@ -66804,6 +66835,7 @@ ad.pornimg.xyz
 asg.pornx99.xyz
 portoutsid.xyz
 premiumstats.xyz
+qd3zn.xyz
 qofowyki.xyz
 raccourir.xyz
 raigebro.xyz
