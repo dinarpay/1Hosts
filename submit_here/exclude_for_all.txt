@@ -1,3 +1,14 @@
+# https://github.com/badmojr/1Hosts/issues/529
+matrix.fairydust.space
+chat.fairydust.space
+
+# https://github.com/badmojr/1Hosts/issues/527
+api.stats.fm
+cdn.stats.fm
+
+# user says: I can't play embedded videos. 
+suzihaza.com
+
 # https://github.com/badmojr/1Hosts/issues/525
 invidious.namazso.eu
 
