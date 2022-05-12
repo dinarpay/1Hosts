@@ -1,9 +1,9 @@
 # Title: 1Hosts (Lite)
 # Expires: 4 days
-# Last modified: 2022-05-12T04:00:21.218Z
+# Last modified: 2022-05-12T05:21:28.560Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 101,206 rules!
+#  |Count: 101,193 rules!
 #  |Size: 2.02 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -9196,7 +9196,6 @@ ox-delivery-prod-europe-west1.openx.net
 av1.xdrig.com
 t.eclick.vn
 uxip.meizu.com
-0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com
 request.pushalert.co
 pango-coupons.besttoolbars.net
 staging.pango-coupons.besttoolbars.net
@@ -9241,7 +9240,6 @@ voodoo-ads.io
 pubgenius.io
 eap-log-sg.allawnos.com
 adserver.pressboard.ca
-api.0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com
 aka-cdn.adtech.de
 insider.edge.permutive.app
 pubfuture.com
@@ -11788,7 +11786,6 @@ es-config-preproduction.sensic.net
 q001.sub2tech.com
 static.tapfiliate.com
 aj1559.online
-objectstorage.us-sanjose-1.oraclecloud.com
 developermedia.com
 t.karte.io
 us5-cdn.inside-graph.com
@@ -19866,7 +19863,6 @@ visistat.com
 ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 b-eu1.marketperf.com
 cdn.netmera-web.com
-cdncoccoc.com
 cdnp.notifyvisitors.com
 stream-us.optimove.net
 tbs.tradedoubler.com
@@ -21101,7 +21097,6 @@ youboranqs02.com
 5182052.fls.doubleclick.net
 a4075.casalemedia.com
 bned.demdex.net
-de.cdncoccoc.com
 eq97f-0jx8b.ads.tremorhub.com
 integrate.pxoe.wip.247-inc.net
 10530578.fls.doubleclick.net
@@ -21126,7 +21121,6 @@ a3918.casalemedia.com
 dispatcher.360in.com
 ewr-482.ewr-rtb1.rfihub.net
 interbuzznews.com
-jsc.cdncoccoc.com
 static-int.adsafeprotected.com
 vid0410.d41.co
 zagtertda.com
@@ -22139,7 +22133,6 @@ crash.163.com
 e0.extreme-dm.com
 events.cdnwidget.com
 g1980843350.co
-img.cdncoccoc.com
 inpref.com
 mannenmedia.mainroll.com
 us-e28.admanmedia.com
@@ -22455,7 +22448,6 @@ us-e44.admanmedia.com
 blackbaud.demdex.net
 cdn-gcs.outfit7.com
 e1956cbb56f5.cdn4.forter.com
-nftstorage.link
 theseoffersforyou.com
 8147271.fls.doubleclick.net
 api.prooffactor.com
@@ -22580,7 +22572,6 @@ rads.recognified.net
 85otw.voluumtrk3.com
 aperushmo.cam
 ewr-495.ewr-rtb1.rfihub.net
-ipfs.nftstorage.link
 nct1.logging.nextsmarty.com
 10959560.fls.doubleclick.net
 445b2eba1211f043d37dc4994c50112384f41204.cws.conviva.com
@@ -23247,7 +23238,6 @@ gbc6.nl.eu.criteo.com
 hostssl.msgapp.com
 mo.baidu.com
 nypi.dc-storm.com
-page.cdncoccoc.com
 qsstats.com
 sb.blueconic.net
 smetrics.nissanusa.com
@@ -31438,7 +31428,6 @@ img.may88.win
 m16.fywkuzp.ru
 marketing.gilderlehrman.org
 metrics.valuecityfurniture.com
-news-fesihe.cc
 parkcircularpearl.com
 piwik.luxnet.ua
 privacy.outdoorsg.com
@@ -37614,7 +37603,6 @@ ams-176.ams-rtb1.rfihub.com
 ams-71.ams-rtb1.rfihub.com
 app-383df0c284764f70.mobileapi.usebutton.com
 au3-track.inside-graph.com
-bafybeidafdqe6khhqykyrjhesrkym52f7rqdud5hkstdaojddibzcnkkqe.ipfs.nftstorage.link
 cdn1.viewdeos.com
 coax7nice.com
 col-idealista-pt-cddc.at-o.net
@@ -40760,7 +40748,6 @@ apis.appnxt.net
 asg.retrosexporn.com
 b152.s372.meetrics.net
 b87.s372.meetrics.net
-bafybeibclezdahrv4a5l6ex55odxxbtgnxh6ommdi2r2fbjpek4jevxc4y.ipfs.nftstorage.link
 bc07fbe2-edc2-4a0e-9f47-a0b84a844007.rlets.com
 beacon.itmedia.jp
 bigberryconsulting.com
@@ -42592,7 +42579,6 @@ aserdefa.ru
 b-gi.getui.net
 b154.s372.meetrics.net
 b3.s372.meetrics.net
-bafybeidkb2vmt5am6keimn3bb2cc3fcvwpjlfkj3gw3qgghknam6brt6am.ipfs.nftstorage.link
 beaconads.com
 blizzard.blueoxtech.com
 bro1.biz
@@ -46966,7 +46952,6 @@ recommendationsapi-u2.veinteractive.com
 resource-s3.mcoreads.com
 rtb-useast.pressize.com
 rvw.snva.jp
-s3.ap-northeast-1.wasabisys.com
 se29.biz
 secure.path5wall.com
 shoebacca.demdex.net
@@ -47355,7 +47340,6 @@ c.dcs.maxthon.com
 cdn.atdmt.com
 cdn.batmobi.net
 cdn.moji.com
-checkip.0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com
 click.google-analytics.com
 collect20008jmblg.deltadna.net
 collector-11612.tvsquared.com
@@ -63861,6 +63845,7 @@ mydisplay.ctfile.com
 info.ctg.com
 cthaic.com
 ctmconnect.com
+ctmwjivktdu.com
 ag.ctnsnet.com
 ahk.ctnsnet.com
 b.ctnsnet.com
@@ -67671,6 +67656,7 @@ www.gblwebcen.com
 gbotvisit.com
 www.gbotvisit.com
 stats.gbvanalytics.com
+www.gbvqblkpxmzji.com
 gbwess.com
 gcdnsl.com
 gcebhl.com
@@ -70966,6 +70952,7 @@ links.colonelsclub.kfc.com
 links.info.kfc.com
 links.orders.kfc.com
 j.kfd3sm2c.com
+www.kgpabtukhwrp.com
 kgua0o66bcw8.com
 khaate.com
 khandragthresh.com

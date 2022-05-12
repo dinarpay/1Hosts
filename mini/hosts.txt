@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-12T04:00:20.721Z
+# Last modified: 2022-05-12T05:21:27.938Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 66,897 rules!
+#  |Count: 66,901 rules!
 #  |Size: 1.73 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -14894,6 +14894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dyn.tnaflix.com
 0.0.0.0 evanescentedge.com
 0.0.0.0 gourmetads.com
+0.0.0.0 kgpabtukhwrp.com
 0.0.0.0 secure.heat6have.com
 0.0.0.0 seyfwl.interia.pl
 0.0.0.0 sorxyx.vi.nl
@@ -29566,6 +29567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 info.ctg.com
 0.0.0.0 cthaic.com
 0.0.0.0 ctmconnect.com
+0.0.0.0 ctmwjivktdu.com
 0.0.0.0 ag.ctnsnet.com
 0.0.0.0 ahk.ctnsnet.com
 0.0.0.0 b.ctnsnet.com
@@ -33376,6 +33378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gbotvisit.com
 0.0.0.0 www.gbotvisit.com
 0.0.0.0 stats.gbvanalytics.com
+0.0.0.0 www.gbvqblkpxmzji.com
 0.0.0.0 gbwess.com
 0.0.0.0 gcdnsl.com
 0.0.0.0 gcebhl.com
@@ -36671,6 +36674,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 links.info.kfc.com
 0.0.0.0 links.orders.kfc.com
 0.0.0.0 j.kfd3sm2c.com
+0.0.0.0 www.kgpabtukhwrp.com
 0.0.0.0 kgua0o66bcw8.com
 0.0.0.0 khaate.com
 0.0.0.0 khandragthresh.com

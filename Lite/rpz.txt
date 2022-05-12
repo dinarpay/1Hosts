@@ -1,9 +1,9 @@
 ; Title: 1Hosts (Lite)
 ; Expires: 4 days
-; Last modified: 2022-05-12T04:00:21.358Z
+; Last modified: 2022-05-12T05:21:28.729Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 110,250 rules!
+;  |Count: 110,240 rules!
 ;  |Size: 2.87 MB
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -19,7 +19,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1652328019 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1652332886 43200 3600 259200 300
   NS  localhost.
 
 *.doubleclick.net CNAME .
@@ -7676,8 +7676,6 @@ besttoolbars.net CNAME .
 widgets.oddschecker.com CNAME .
 *.uxip.meizu.com CNAME .
 uxip.meizu.com CNAME .
-*.0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com CNAME .
-0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com CNAME .
 *.p.altergeo.ru CNAME .
 p.altergeo.ru CNAME .
 *.eacdn.com CNAME .
@@ -9530,8 +9528,6 @@ tactilews.com CNAME .
 2fa3c2fa16c47d9b9bff8986a42b048f.com CNAME .
 *.aj1559.online CNAME .
 aj1559.online CNAME .
-*.objectstorage.us-sanjose-1.oraclecloud.com CNAME .
-objectstorage.us-sanjose-1.oraclecloud.com CNAME .
 *.developermedia.com CNAME .
 developermedia.com CNAME .
 *.s.cntqk.com CNAME .
@@ -14152,8 +14148,6 @@ visistat.com CNAME .
 ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com CNAME .
 *.cdn.netmera-web.com CNAME .
 cdn.netmera-web.com CNAME .
-*.cdncoccoc.com CNAME .
-cdncoccoc.com CNAME .
 *.tbs.tradedoubler.com CNAME .
 tbs.tradedoubler.com CNAME .
 *.xtremeserve.xyz CNAME .
@@ -15686,8 +15680,6 @@ nativespot.com CNAME .
 smetrics.banamex.com CNAME .
 *.cdn-gcs.outfit7.com CNAME .
 cdn-gcs.outfit7.com CNAME .
-*.nftstorage.link CNAME .
-nftstorage.link CNAME .
 *.theseoffersforyou.com CNAME .
 theseoffersforyou.com CNAME .
 *.foremedia.net CNAME .
@@ -21400,8 +21392,6 @@ iconosquare.com CNAME .
 marketing.gilderlehrman.org CNAME .
 *.metrics.valuecityfurniture.com CNAME .
 metrics.valuecityfurniture.com CNAME .
-*.news-fesihe.cc CNAME .
-news-fesihe.cc CNAME .
 *.parkcircularpearl.com CNAME .
 parkcircularpearl.com CNAME .
 *.piwik.luxnet.ua CNAME .
@@ -29744,8 +29734,6 @@ n19.biz CNAME .
 nonewnews.name CNAME .
 *.pbkqidejmes.ru CNAME .
 pbkqidejmes.ru CNAME .
-*.s3.ap-northeast-1.wasabisys.com CNAME .
-s3.ap-northeast-1.wasabisys.com CNAME .
 *.se29.biz CNAME .
 se29.biz CNAME .
 *.smetrics.iowatotalcare.com CNAME .
@@ -49866,6 +49854,8 @@ info.ctg.com CNAME .
 cthaic.com CNAME .
 *.ctmconnect.com CNAME .
 ctmconnect.com CNAME .
+*.ctmwjivktdu.com CNAME .
+ctmwjivktdu.com CNAME .
 *.ag.ctpsnet.com CNAME .
 ag.ctpsnet.com CNAME .
 *.ctrck.com CNAME .

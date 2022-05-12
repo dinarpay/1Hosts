@@ -1,9 +1,9 @@
 # Title: 1Hosts (Lite)
 # Expires: 4 days
-# Last modified: 2022-05-12T04:00:22.231Z
+# Last modified: 2022-05-12T05:21:29.724Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 55,125 rules!
+#  |Count: 55,120 rules!
 #  |Size: 1.07 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -3845,7 +3845,6 @@
 *.besttoolbars.net
 *.widgets.oddschecker.com
 *.uxip.meizu.com
-*.0644f36738c0ebc11bb0c5cf7f0415b757eab0c5.com
 *.p.altergeo.ru
 *.eacdn.com
 *.pingfore.qq.com
@@ -4772,7 +4771,6 @@
 *.3ec9b600789b3bacf2c72ebae142a9c3.net
 *.2fa3c2fa16c47d9b9bff8986a42b048f.com
 *.aj1559.online
-*.objectstorage.us-sanjose-1.oraclecloud.com
 *.developermedia.com
 *.s.cntqk.com
 *.us-east-2.prod.pr.analytics.console.aws.a2z.com
@@ -7083,7 +7081,6 @@
 *.visistat.com
 *.ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 *.cdn.netmera-web.com
-*.cdncoccoc.com
 *.tbs.tradedoubler.com
 *.xtremeserve.xyz
 *.perzonalization.com
@@ -7850,7 +7847,6 @@
 *.nativespot.com
 *.smetrics.banamex.com
 *.cdn-gcs.outfit7.com
-*.nftstorage.link
 *.theseoffersforyou.com
 *.foremedia.net
 *.mediaget.com
@@ -10707,7 +10703,6 @@
 *.iconosquare.com
 *.marketing.gilderlehrman.org
 *.metrics.valuecityfurniture.com
-*.news-fesihe.cc
 *.parkcircularpearl.com
 *.piwik.luxnet.ua
 *.privacy.outdoorsg.com
@@ -14879,7 +14874,6 @@
 *.n19.biz
 *.nonewnews.name
 *.pbkqidejmes.ru
-*.s3.ap-northeast-1.wasabisys.com
 *.se29.biz
 *.smetrics.iowatotalcare.com
 *.smetrics.persol.com
@@ -24940,6 +24934,7 @@
 *.info.ctg.com
 *.cthaic.com
 *.ctmconnect.com
+*.ctmwjivktdu.com
 *.ag.ctpsnet.com
 *.ctrck.com
 *.u.ctrip.com

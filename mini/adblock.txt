@@ -1,9 +1,9 @@
 ! Title: 1Hosts (mini)
 ! Expires: 4 days
-! Last modified: 2022-05-12T04:00:21.093Z
+! Last modified: 2022-05-12T05:21:28.405Z
 ! ..............
 !  |URL: https://github.com/badmojr/1Hosts
-!  |Count: 54,864 rules!
+!  |Count: 54,866 rules!
 !  |Size: 1.13 MB
 !  |
 !  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -10957,6 +10957,7 @@
 ||dyn.tnaflix.com^
 ||evanescentedge.com^
 ||gourmetads.com^
+||kgpabtukhwrp.com^
 ||secure.heat6have.com^
 ||seyfwl.interia.pl^
 ||sorxyx.vi.nl^
@@ -22977,6 +22978,7 @@
 ||info.ctg.com^
 ||cthaic.com^
 ||ctmconnect.com^
+||ctmwjivktdu.com^
 ||ag.ctpsnet.com^
 ||ctrck.com^
 ||u.ctrip.com^

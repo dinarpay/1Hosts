@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-12T04:00:19.930Z
+# Last modified: 2022-05-12T05:21:26.983Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 66,897 rules!
+#  |Count: 66,901 rules!
 #  |Size: 1.21 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -14880,6 +14880,7 @@ delivery.adten.eu
 dyn.tnaflix.com
 evanescentedge.com
 gourmetads.com
+kgpabtukhwrp.com
 secure.heat6have.com
 seyfwl.interia.pl
 sorxyx.vi.nl
@@ -29552,6 +29553,7 @@ mydisplay.ctfile.com
 info.ctg.com
 cthaic.com
 ctmconnect.com
+ctmwjivktdu.com
 ag.ctnsnet.com
 ahk.ctnsnet.com
 b.ctnsnet.com
@@ -33362,6 +33364,7 @@ www.gblwebcen.com
 gbotvisit.com
 www.gbotvisit.com
 stats.gbvanalytics.com
+www.gbvqblkpxmzji.com
 gbwess.com
 gcdnsl.com
 gcebhl.com
@@ -36657,6 +36660,7 @@ links.colonelsclub.kfc.com
 links.info.kfc.com
 links.orders.kfc.com
 j.kfd3sm2c.com
+www.kgpabtukhwrp.com
 kgua0o66bcw8.com
 khaate.com
 khandragthresh.com
