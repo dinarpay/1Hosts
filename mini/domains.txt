@@ -1,9 +1,9 @@
 # Title: 1Hosts (mini)
 # Expires: 4 days
-# Last modified: 2022-05-12T14:26:13.607Z
+# Last modified: 2022-05-12T17:40:37.210Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 66,903 rules!
+#  |Count: 66,895 rules!
 #  |Size: 1.21 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -6296,7 +6296,6 @@ log.dmtry.com
 etl-xlmc-ssl.sandai.net
 sstats.meijer.com
 tagr-gcp-lb1-use1.mookie1.com
-gdpr-settings.s3.amazonaws.com
 advshield.goforandroid.com
 rex.bnmla.com
 smetrics.regions.com
@@ -6496,6 +6495,7 @@ smetrics.royalcaribbean.com
 cd.ladsp.com
 stat.meitudata.com
 static.karte.io
+sfp.safe.baidu.com
 slckg-nugvu.ads.tremorhub.com
 sdklog.tvstore.opera.com
 uhytajrtpo-a.akamaihd.net
@@ -6712,6 +6712,7 @@ phaistos-ssp.adman.gr
 tk.mediacategory.com
 pnrt-stsdk.vivo.com.cn
 ufpcdn.com
+sofire.bdstatic.com
 edba.brealtime.com
 ketchapp.org
 smartclip-services.com
@@ -7857,7 +7858,6 @@ dataapi.ktplay.com
 ntracker-collector.naver.com
 srv.vivaclix.com
 scaredcomfort.com
-sst.johnlewis.com
 vietnamnetad.vn
 metrics.chapters.indigo.ca
 universe.send.microad.jp
@@ -10970,7 +10970,6 @@ push.connecto.io
 securetags.w55c.net
 app-sji.marketo.com
 lg.smardroid.com
-push.newscraft.io
 assetscdn.jivox.com
 b.medtronic.com
 biddingx.com
@@ -12983,7 +12982,6 @@ windsplay.com
 ads.adzip.co
 b.telus.com
 clickon.co.il
-engage.us.victorinsurance.com
 in-gmtdmp.mookie1.com
 menu.metu.vn
 metrics.taste.com.au
@@ -13760,7 +13758,6 @@ detnmz.livestrong.com
 facebookinbox-omni-onapp.haravan.com
 gzs20.cnzz.com
 image.cauly.co.kr
-news.mecktimes.com
 nightfallroad.com
 onepush.app
 tbl.tradedoubler.com
@@ -16678,6 +16675,7 @@ shrinktheweb.com
 sstats.bnpparibasfortis.be
 static-dmp.mediaglacier.com
 stt.nimbusweb.me
+track.rheinpfalz.de
 tracking.clickadilla.com
 vid-adblocker.com
 yeah.com
@@ -17675,7 +17673,6 @@ hunterdelivery.com
 idpt.360yield.com
 jmp.c-rings.net
 lamberserer.club
-marketing.growbinmaster.com
 p.appjiagu.com
 proof.sudo.vn
 qhm2.cnzz.com
@@ -17923,7 +17920,6 @@ i.mediatraffic.com.ua
 jsconfig.adsafeprotected.com
 knobpredestinecontradiction.com
 log.anninhthudo.vn
-marketing.classroominc.org
 mp-success.com
 nl.rcd.iqiyi.com
 om.lds.org
@@ -18472,7 +18468,6 @@ ads-media-cdn.tenmax.io
 analytics-api.statvoo.com
 baaomenaltho.com
 bitcoadz.io
-blog.trinityconsultants.com
 bxumze.dispatch.com
 cdn-partners-references.lesoir.be
 cdn.api-connect.io
@@ -18641,7 +18636,6 @@ arenalitteraccommodation.com
 aserverstats.com
 asteriresearch.com
 athena.wan.sogou.com
-baptist-health.hrm.healthgrades.com
 bettermetrics.co
 ad.animehub.ac
 mxsvjc.hackers.ac
@@ -27190,6 +27184,7 @@ boolevool.com
 boomads.com
 media.boomads.com
 www.boomsbeat.com
+boomselljamwelunch.com
 boom-boom-vroom.com
 boonsex.com
 www.boonsolutions.com
@@ -35215,7 +35210,6 @@ andmlbf.tj.ijinshan.com
 lb3d.tj.ijinshan.com
 pg.tj.ijinshan.com
 ijsprocode.com
-ijsxk.com
 info.ijungo.com
 api.ijunhai.com
 a4.ikafan.com
@@ -66701,13 +66695,11 @@ www.hostg.xyz
 hotnaturey.xyz
 hranakel.xyz
 hyperlnk.xyz
-i03.xyz
 vm5.i7akpd1.xyz
 iesboughts.xyz
 iknight.xyz
 ismovernm.xyz
 ixnow.xyz
-j46.xyz
 java8.xyz
 thescript.javfinder.xyz
 javoyynu.xyz

@@ -1,9 +1,9 @@
 ; Title: 1Hosts (mini)
 ; Expires: 4 days
-; Last modified: 2022-05-12T14:26:12.832Z
+; Last modified: 2022-05-12T17:40:36.380Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 109,772 rules!
+;  |Count: 109,756 rules!
 ;  |Size: 2.89 MB
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -19,7 +19,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1652365559 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1652377223 43200 3600 259200 300
   NS  localhost.
 
 *.teams.events.data.microsoft.com CNAME .
@@ -8598,8 +8598,6 @@ etl-xlmc-ssl.sandai.net CNAME .
 sstats.meijer.com CNAME .
 *.tagr-gcp-lb1-use1.mookie1.com CNAME .
 tagr-gcp-lb1-use1.mookie1.com CNAME .
-*.gdpr-settings.s3.amazonaws.com CNAME .
-gdpr-settings.s3.amazonaws.com CNAME .
 *.advshield.goforandroid.com CNAME .
 advshield.goforandroid.com CNAME .
 *.smetrics.regions.com CNAME .
@@ -8862,6 +8860,8 @@ smetrics.royalcaribbean.com CNAME .
 stat.meitudata.com CNAME .
 *.static.karte.io CNAME .
 static.karte.io CNAME .
+*.sfp.safe.baidu.com CNAME .
+sfp.safe.baidu.com CNAME .
 *.sdklog.tvstore.opera.com CNAME .
 sdklog.tvstore.opera.com CNAME .
 *.uhytajrtpo-a.akamaihd.net CNAME .
@@ -9200,6 +9200,8 @@ phaistos-ssp.adman.gr CNAME .
 pnrt-stsdk.vivo.com.cn CNAME .
 *.ufpcdn.com CNAME .
 ufpcdn.com CNAME .
+*.sofire.bdstatic.com CNAME .
+sofire.bdstatic.com CNAME .
 *.ketchapp.org CNAME .
 ketchapp.org CNAME .
 *.smartclip-services.com CNAME .
@@ -10834,8 +10836,6 @@ dataapi.ktplay.com CNAME .
 ntracker-collector.naver.com CNAME .
 *.scaredcomfort.com CNAME .
 scaredcomfort.com CNAME .
-*.sst.johnlewis.com CNAME .
-sst.johnlewis.com CNAME .
 *.vietnamnetad.vn CNAME .
 vietnamnetad.vn CNAME .
 *.metrics.chapters.indigo.ca CNAME .
@@ -15654,8 +15654,6 @@ securetags.w55c.net CNAME .
 app-sji.marketo.com CNAME .
 *.lg.smardroid.com CNAME .
 lg.smardroid.com CNAME .
-*.push.newscraft.io CNAME .
-push.newscraft.io CNAME .
 *.assetscdn.jivox.com CNAME .
 assetscdn.jivox.com CNAME .
 *.b.medtronic.com CNAME .
@@ -18868,8 +18866,6 @@ ads.adzip.co CNAME .
 b.telus.com CNAME .
 *.clickon.co.il CNAME .
 clickon.co.il CNAME .
-*.engage.us.victorinsurance.com CNAME .
-engage.us.victorinsurance.com CNAME .
 *.in-gmtdmp.mookie1.com CNAME .
 in-gmtdmp.mookie1.com CNAME .
 *.menu.metu.vn CNAME .
@@ -20100,8 +20096,6 @@ facebookinbox-omni-onapp.haravan.com CNAME .
 gzs20.cnzz.com CNAME .
 *.image.cauly.co.kr CNAME .
 image.cauly.co.kr CNAME .
-*.news.mecktimes.com CNAME .
-news.mecktimes.com CNAME .
 *.nightfallroad.com CNAME .
 nightfallroad.com CNAME .
 *.onepush.app CNAME .
@@ -24934,6 +24928,8 @@ shrinktheweb.com CNAME .
 sstats.bnpparibasfortis.be CNAME .
 *.stt.nimbusweb.me CNAME .
 stt.nimbusweb.me CNAME .
+*.track.rheinpfalz.de CNAME .
+track.rheinpfalz.de CNAME .
 *.vid-adblocker.com CNAME .
 vid-adblocker.com CNAME .
 *.yeah.com CNAME .
@@ -26610,8 +26606,6 @@ getalltraffic.com CNAME .
 hunterdelivery.com CNAME .
 *.lamberserer.club CNAME .
 lamberserer.club CNAME .
-*.marketing.growbinmaster.com CNAME .
-marketing.growbinmaster.com CNAME .
 *.p.appjiagu.com CNAME .
 p.appjiagu.com CNAME .
 *.proof.sudo.vn CNAME .
@@ -27054,8 +27048,6 @@ jsconfig.adsafeprotected.com CNAME .
 knobpredestinecontradiction.com CNAME .
 *.log.anninhthudo.vn CNAME .
 log.anninhthudo.vn CNAME .
-*.marketing.classroominc.org CNAME .
-marketing.classroominc.org CNAME .
 *.mp-success.com CNAME .
 mp-success.com CNAME .
 *.nl.rcd.iqiyi.com CNAME .
@@ -28004,8 +27996,6 @@ analytics-api.statvoo.com CNAME .
 baaomenaltho.com CNAME .
 *.bitcoadz.io CNAME .
 bitcoadz.io CNAME .
-*.blog.trinityconsultants.com CNAME .
-blog.trinityconsultants.com CNAME .
 *.bxumze.dispatch.com CNAME .
 bxumze.dispatch.com CNAME .
 *.cdn-partners-references.lesoir.be CNAME .
@@ -28270,8 +28260,6 @@ aserverstats.com CNAME .
 asteriresearch.com CNAME .
 *.athena.wan.sogou.com CNAME .
 athena.wan.sogou.com CNAME .
-*.baptist-health.hrm.healthgrades.com CNAME .
-baptist-health.hrm.healthgrades.com CNAME .
 *.bettermetrics.co CNAME .
 bettermetrics.co CNAME .
 *.ad.animehub.ac CNAME .
@@ -41858,6 +41846,8 @@ boolevool.com CNAME .
 boomads.com CNAME .
 *.www.boomsbeat.com CNAME .
 www.boomsbeat.com CNAME .
+*.boomselljamwelunch.com CNAME .
+boomselljamwelunch.com CNAME .
 *.boom-boom-vroom.com CNAME .
 boom-boom-vroom.com CNAME .
 *.boonsex.com CNAME .
@@ -55742,8 +55732,6 @@ lb3d.tj.ijinshan.com CNAME .
 pg.tj.ijinshan.com CNAME .
 *.ijsprocode.com CNAME .
 ijsprocode.com CNAME .
-*.ijsxk.com CNAME .
-ijsxk.com CNAME .
 *.info.ijungo.com CNAME .
 info.ijungo.com CNAME .
 *.api.ijunhai.com CNAME .
@@ -109384,8 +109372,6 @@ hotnaturey.xyz CNAME .
 hranakel.xyz CNAME .
 *.hyperlnk.xyz CNAME .
 hyperlnk.xyz CNAME .
-*.i03.xyz CNAME .
-i03.xyz CNAME .
 *.vm5.i7akpd1.xyz CNAME .
 vm5.i7akpd1.xyz CNAME .
 *.iesboughts.xyz CNAME .
@@ -109396,8 +109382,6 @@ iknight.xyz CNAME .
 ismovernm.xyz CNAME .
 *.ixnow.xyz CNAME .
 ixnow.xyz CNAME .
-*.j46.xyz CNAME .
-j46.xyz CNAME .
 *.java8.xyz CNAME .
 java8.xyz CNAME .
 *.thescript.javfinder.xyz CNAME .
