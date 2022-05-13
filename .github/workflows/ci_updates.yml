@@ -5,7 +5,7 @@ name: CI - Updates
     - cron: 5 14,2 * * *
     
 jobs:
-  build:
+  init:
     runs-on: ubuntu-20.04
 
     steps:
