@@ -1,4 +1,4 @@
-name: Clean - workflow runs
+name: Clean workflow runs
 
 on:
   workflow_dispatch:
